@@ -1,4 +1,5 @@
-# Proyecto: Germina tejidos. Es una tienda de productos tejidos a crochet.
+# Proyecto: Germina tejidos. 
+Es una tienda de productos tejidos a crochet.
 
 ## Autora: Rossi, M. Florencia.
 
